@@ -56,7 +56,7 @@ php bin/console server:run
 
 * 		1) Lancer le container Docker : docker-compose up -d (modifié)
 
-*     2) Lancer le serveur PHP : symfony serve -d ou symfony server:start -d (modifié)ou symfony server:start -d
+*     2) Lancer le serveur PHP : symfony serve -d ou symfony server:start -d (modifié)
 
 *.    2Bis} install du composer:
 composer install 2.5.4
