@@ -90,7 +90,7 @@ Jeune développeur tout juste reconverti, passionné de code et autres techno.
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hz7C5qFA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Flo Skat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Florent Perez)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hz7C5qFA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Flo Skat) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?log)o=linkedin&logoColor=white)](https://linkedin.com/in/Florent Perez)](https://www.linkedin.com/in/florent-perez-559524242/)
 
 # 💻 Tech Stack:
 
