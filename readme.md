@@ -4,7 +4,7 @@ Je recommanderai de télécharger ce référentiel localement, puis de copier le
 
 
 
-Pré-requis
+Prérequis
 
 Ce projet est réalisé sous OS X, Symfony 5.4.21 et PHP 8.2.1, composer require Composer version 2.5.4
 
@@ -30,21 +30,21 @@ ET
 Installer http://docker-sync.io/
 
 2 Ouvrez le terminal et déplacer ce fichier vers le chemin:
-/usr/local/bin/composer en utlisant la commande ci-desous.
+/usr/local/bin/composer en utilisant la commande ci-dessous.
 
 mv composer.phar /usr/local/bin/composer
 
-3 Vérifier que Composer soit bien installé en utilisant la commande suivante sur le terminal: composer -V. Si un numéro de version apparaît, tout à fonctionner correctement. Dans le cas contraire refaite les étapes ou lisez la documentation.
+3 Vérifier que Composer soit bien installé en utilisant la commande suivante sur le terminal: composer -V. Si un numéro de version apparaît, tout à fonctionner correctement. Dans le cas contraire refaire les étapes ou lisez la documentation.
 cf.(https://getcomposer.org/doc/00-intro.md)
 
-4.Téléchargez et installez Symfony en utilisant l'installateur Composer :
+4. Téléchargez et installez Symfony en utilisant l'installateur Composer :
 
-5.Configurez votre base de données en modifiant les paramètres dans le fichier .env :
+5. Configurez votre base de données en modifiant les paramètres dans le fichier .env :
 
 Adresse de phpMyadmin sur votre navigateur DATABASE_URL=mysql ou http://127.0.0.1:8080/index.php?route=/database/structure&db=db_ecf_quai_antique
 
 
-.Démarrez le serveur Web interne de Symfony en exécutant la commande suivante :
+6. Démarrez le serveur Web interne de Symfony en exécutant la commande suivante :
 php bin/console server:run
 
 
@@ -80,13 +80,13 @@ symfony server:ca:install
 
 Votre application Symfony est maintenant déployée et accessible à l'adresse:
 
-http://localhost:8000.
+http://localhost:8000 ou le port que vous préférez (Pour cela il vous faudra le modifier dans le fichier .yml au préalable)
 
-6. Le lien du Trello: https://trello.com/b/SF5ceWq5/quai-antique
+7. Le lien du Trello: https://trello.com/b/SF5ceWq5/quai-antique
 
 # 💫 About Me:
 
-Jeune développeur tout juste reconverti, passionné de code et autres techno.
+Jeune développeur tout juste reconverti, passionné de code et autres technos.
 
 ## 🌐 Socials:
 
