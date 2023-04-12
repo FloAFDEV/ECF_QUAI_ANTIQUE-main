@@ -34,7 +34,7 @@ Installer http://docker-sync.io/
 
 mv composer.phar /usr/local/bin/composer
 
-3 Vérifier que Composer soit bien installé en utilisant la commande suivante sur le terminal: composer -V. Si un numéro de version apparaît, tout à fonctionner correctement. Dans le cas contraire refaire les étapes ou lisez la documentation.
+3 Vérifier que Composer soit bien installé en utilisant la commande suivante sur le terminal: composer -V. Si un numéro de version apparaît, tout à fonctionné correctement. Dans le cas contraire refaire les étapes ou lisez la documentation.
 cf.(https://getcomposer.org/doc/00-intro.md)
 
 4. Téléchargez et installez Symfony en utilisant l'installateur Composer :
