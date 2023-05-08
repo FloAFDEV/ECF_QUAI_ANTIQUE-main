@@ -1,0 +1,26 @@
+# Generated with <3 by Cloud66
+
+services:
+  db:
+    image: mysql:8.0
+    ports:
+    - container: 3306
+      https: 3001
+    env_vars:
+      MYSQL_ROOT_PASSWORD: root
+    volumes:
+    - /db_ecf_quai_antique:/var/lib/mysql
+  mailer:
+    image: schickling/mailcatcher
+    ports:
+    - tcp: 1025
+    - {}
+  phpmyadmin:
+    image: phpmyadmin
+    requires:
+    - db
+    ports:
+    - container: 80
+      http: 8080
+    env_vars:
+      PMA_HOST: db
