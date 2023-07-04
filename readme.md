@@ -24,7 +24,7 @@ https://getcomposer.org/download/
 
 ET
 
-Installer http://docker-sync.io/
+Installer https://www.docker.com/
 
 2 Ouvrez le terminal et déplacer ce fichier vers le chemin:
 /usr/local/bin/composer en utlisant la commande ci-desous.
