@@ -62,7 +62,7 @@ php bin.console doctrine:database:create
 
 php bin/console make:migration
 
-php bin/console doctrine:migration:migrate
+php bin/console doctrine:migrations:migrate
 
 \*. 3) Arreter le serveur PHP : symfony server:stop
 
